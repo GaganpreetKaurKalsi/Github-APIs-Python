@@ -1,6 +1,6 @@
 <h2>Calling Github APIs using Python</h2>
 <b><i>Scripts are written in Python3</i></b><br>
-
+<br>
 <ul>
   <li>Create a repository</li>
   <li>Delete a repository</li>
@@ -9,8 +9,8 @@
   <li>Close an issue</li>
 </ul>
 
-<h4><i>Note : Replace the Token with your own generated token to make the code work.</i></h4>
-<h3><i>Tokens are like passwords, they cannot be shared. They are only to be personal to the creator.</i></h3>
+<h4><i>Note : Tokens are like passwords, they cannot be shared. Replace the Token with your own generated token to make the code work.</i></h4>
+
 <h3>How to generate a token : </h3>
 <ol>
   <li>Go to <b>Settings</b> (Top rightmost dropdown near profile pic)</li>
