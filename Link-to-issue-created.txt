@@ -1,0 +1,3 @@
+Link to issue created,commented and closed using github APIs : https://github.com/GaganpreetKaurKalsi/Repo-Using-GithubAPI/issues/1
+
+Link to Repository containing the scripts for calling the Github APIs : https://github.com/GaganpreetKaurKalsi/Github-APIs-Python
