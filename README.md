@@ -10,7 +10,7 @@
   <li>Close an issue</li>
   <li>Create a pull request</li>
   <li>Create reaction for an issue</li>
-  <li>Delete reaction for an issue</li>
+  <li>Delete reaction for an issue - You will get the reaction id from the json response file obtained when making a request for reaction list for an issue.</li>
   <li>List reactions for an issue</li>
   <li>Get repository topics</li>
   <li>List repository languages</li>
