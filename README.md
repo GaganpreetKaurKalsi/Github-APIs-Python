@@ -1,5 +1,7 @@
 <h1>Calling Github API using Python 🐍😎❤</h1>
 
+<b>Documentation</b> - https://developer.github.com/v3/
+
 <b><i>Scripts are written in Python3 🐍</i></b><br>
 <br>
 <ul>
