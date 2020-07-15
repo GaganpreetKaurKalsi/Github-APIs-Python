@@ -1,6 +1,6 @@
-<h1>Calling Github APIs using Python 🐍😎❤</h1>
+<h1>Calling Github API using Python 🐍😎❤</h1>
 
-<b><i>Scripts are written in Python3🐍</i></b><br>
+<b><i>Scripts are written in Python3 🐍</i></b><br>
 <br>
 <ul>
   <li>Create a repository</li>
