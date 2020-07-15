@@ -17,7 +17,7 @@
   <li>Get repository topics</li>
   <li>List repository languages</li>
   <li>List repos for an Authenticated User</li>
-  <li>List repos of a User</li>
+  <li>List repos of a User - Any user across Github</li>
 </ul>
 
 <h4><i>Note : Tokens are like passwords, they cannot be shared. Replace the Token with your own generated token to make the code work. Also run output.json() to get the json response file from which you can extract data using for loop.</i></h4>
